@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&amp;display=swap");
 @media screen and (max-width: 600px){}
-
 *{
 	padding: 0;
 	margin: 0;
@@ -8,6 +7,7 @@
 	box-sizing: border-box
     
 }
+
 html{
     scroll-behavior: smooth;
   }
@@ -16,7 +16,7 @@ html{
 	height: 100vh;
 	width: 100%;
     background-color: #101010;
-	background-image: url();
+	background-image: url(https://cdn.discordapp.com/attachments/1176488540385841253/1192503519744364594/001.jpg?ex=65a95072&is=6596db72&hm=b23b2e43f4d81c2de1c50125c174a02c47b6fbb53e1e633ff931226539f5e074&);
 	background-size: cover;
 	background-position: center;
 }
@@ -29,13 +29,13 @@ nav{
 	padding-right: 8%;
 }
 .logo{
-	color: white;
+	color: rgb(255, 255, 255);
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
 }
 span{
-	color: #f9004d;
+	color: #ffffff;
 }
 nav ul li{
 	list-style-type: none;
@@ -43,7 +43,7 @@ nav ul li{
 	padding: 10px  25px;
 }
 nav ul li a{
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	text-decoration: none;
 	font-weight: bold;
 	text-transform: capitalize;
@@ -82,7 +82,7 @@ h3{
 	margin-bottom: 50px;
 }
 h4{
-	color: rgba(255, 255, 255, 0.8);
+	color: rgba(0, 0, 0, 0.8);
 	letter-spacing: 2px;
 	font-size: 20px;
 }

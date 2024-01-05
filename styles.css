@@ -320,21 +320,21 @@ html {
 
 .back-to-top {
 	position: fixed;
-	bottom: 2rem;
-	right: 2rem;
+	bottom: 1rem;
+	right: 1rem;
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
 	background-color: #dc143c;
 	border-radius: 0.5rem;
-	padding: 0.5rem;
+	padding: 0.3rem;
 	text-decoration: none;
 	transition: 0.2s ease-out;
 }
 
 .back-to-top span {
 	color: #fff;
-	font-size: 3rem;
+	font-size: 1.9rem;
 	transition: 0.2s ease-out;
 }
 
